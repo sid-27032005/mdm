@@ -1,3 +1,2 @@
 # mdm
-print("hello world")
-hii
+print("hello")
